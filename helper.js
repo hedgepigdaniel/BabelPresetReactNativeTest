@@ -1,1 +1,1 @@
-export const MISSPELLED_THING = 'Tomatoes :}';
+export const IMPORTED_THING = 'Tomatoes :}';
