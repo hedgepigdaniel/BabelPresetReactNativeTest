@@ -873,9 +873,9 @@ babel-preset-jest@^22.1.0:
     babel-plugin-jest-hoist "^22.1.0"
     babel-plugin-syntax-object-rest-spread "^6.13.0"
 
-babel-preset-react-native@^4.0.0, "babel-preset-react-native@git://github.com/hedgepigdaniel/babel-preset-react-native#8c41f19590264eada2cc755b13d2aeeed75b4fd2":
+babel-preset-react-native@^4.0.0, "babel-preset-react-native@git://github.com/hedgepigdaniel/babel-preset-react-native#478a7a2020589a3291623eea23d2e8ad126ccf24":
   version "4.0.0"
-  resolved "git://github.com/hedgepigdaniel/babel-preset-react-native#8c41f19590264eada2cc755b13d2aeeed75b4fd2"
+  resolved "git://github.com/hedgepigdaniel/babel-preset-react-native#478a7a2020589a3291623eea23d2e8ad126ccf24"
   dependencies:
     babel-plugin-check-es2015-constants "^6.5.0"
     babel-plugin-react-transform "^3.0.0"
